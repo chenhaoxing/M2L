@@ -1,7 +1,6 @@
 # Multi-level Metric Learning for Few-Shot Image Recognition
 This code implements the Multi-level Metric Learning for Few-shot Image Recognition (M2L).
 
-Our code will be released soon.
 
 ## Citation
 If you find our work useful, please consider citing our work using the bibtex:
