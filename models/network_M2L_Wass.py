@@ -254,7 +254,6 @@ class MML_Metric(nn.Module):
 
         return l2_norm_mean + l2_norm_cova
 
-    # Calculate task-conditioned Wasserstein Distance
     def cal_MML_similarity(self, input1_batch, input2_batch):
 
         Similarity_list = []
