@@ -20,6 +20,10 @@ If you find our work useful, please consider citing our work using the bibtex:
 * Pytorch 1.0+
 * GPU + CUDA CuDNN
 * pillow, torchvision, scipy, numpy
+
+## Pre-trained backbone
+We provided pre-trained backbone at https://pan.baidu.com/s/1v2k-mdCpGLtKnKG5ijYXMw  keys: 334q
+
 ## Datasets
 **Dataset download link:**
 * [miniImageNet](https://drive.google.com/file/d/1fUBrpv8iutYwdL4xE1rX_R9ef6tyncX9/view) It contains 100 classes with 600 images in each class, which are built upon the ImageNet dataset. The 100 classes are divided into 64, 16, 20 for meta-training, meta-validation and meta-testing, respectively.
