@@ -5,11 +5,11 @@ This code implements the Multi-level Metric Learning for Few-shot Image Recognit
 ## Citation
 If you find our work useful, please consider citing our work using the bibtex:
 ```
-@Article{chen2021multi,
+@inproceedings{chen2022multi,
 	author  = {Chen, Haoxing and Li, Huaxiong and Li, Yaohui and Chen, Chunlin},
 	title   = {Multi-level Metric Learning for Few-Shot Image Recognition},
-	journal = {arXiv preprint arXiv:2103.11383},
-	year    = {2021},
+	booktitle = {International Conference on Artificial Neural Networks(ICANN)},
+	year    = {2022},
 }
 ```
 
