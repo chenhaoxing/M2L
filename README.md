@@ -19,7 +19,7 @@ If you find our work useful, please consider citing our work using the bibtex:
 * Python 3.7
 * Pytorch 1.0+
 * GPU + CUDA CuDNN
-* pillow, torchvision, scipy, numpy
+* pillow, torchvision, scipy, numpy, yaml, etc.
 
 ## Datasets
 **Dataset download link:**
