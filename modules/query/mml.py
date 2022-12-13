@@ -4,7 +4,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import modules.registry as registry
 from .innerproduct_similarity import InnerproductSimilarity
-from modules.utils import GraphFunc, _l2norm, l2distance, batched_index_select, print_network
+from modules.utils import GraphFunc, _l2norm, l2distance, batched_index_select
 
 
 
